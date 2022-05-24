@@ -1,4 +1,12 @@
-# python_studies
+![Capa do Repositório](capa_python.png)
+<p align="center">Repositório com scripts em Python de estudos pessoais</p>
 
-Repositório com meus estudos pessoais de Python.
-Nele tem scripts com funções básicas, loops e importações de bibliotecas, também tem o projeto de análise de dados em Python, que consiste em 3 gráficos com informações sobre as Top 100 músicas do spotify no decorrer dos anos.
+1. Listas de atividades <br>
+&emsp; a. Funções básicas em Python<br>
+&emsp; b. Estrutura de repetição <br>
+&emsp; c. Importações de bibliotecas<br>
+&emsp; d. split( ) e append( ) <br>
+2. Projeto de Análise de dados - Top 100 músicas Spotify(2010 - 2019)<br>
+&emsp; a. Gráfico de Barras<br>
+&emsp; b. Gráfico de Linhas<br>
+&emsp; c. Gráfico de Rosca
