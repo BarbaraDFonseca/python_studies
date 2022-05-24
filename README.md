@@ -9,4 +9,8 @@
 2. Projeto de Análise de dados - Top 100 músicas Spotify(2010 - 2019)<br>
 &emsp; a. Gráfico de Barras<br>
 &emsp; b. Gráfico de Linhas<br>
-&emsp; c. Gráfico de Rosca
+&emsp; c. Gráfico de Rosca<br>
+
+![Gráfico de Barras](barras.png)
+![Gráfico de Linhas](linhas.png)
+![Gráfico de Rosca](rosca.png)
